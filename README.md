@@ -25,11 +25,11 @@ The system achieves high-fidelity results across transcription, emotional mappin
 
 | Module | Output |
 |---|---|
-| 🔊 **Acoustic Gating** | Speech vs. non-speech signal routing |
-| 📝 **Transcription** | Multilingual speech-to-text across 90+ languages |
-| 💬 **Affective Analysis** | 6-class emotion classification with valence scoring |
-| 🗣️ **Speaker Diarization** | Temporal speaker segmentation on a sub-second timeline |
-| 📋 **Scene Captioning** | Deterministic, grounded audio captions — zero hallucinations |
+|**Acoustic Gating** | Speech vs. non-speech signal routing |
+|**Transcription** | Multilingual speech-to-text across 90+ languages |
+|**Affective Analysis** | 6-class emotion classification with valence scoring |
+|**Speaker Diarization** | Temporal speaker segmentation on a sub-second timeline |
+|**Scene Captioning** | Deterministic, grounded audio captions — zero hallucinations |
 
 ---
 
