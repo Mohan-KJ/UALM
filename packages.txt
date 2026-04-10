@@ -1,0 +1,4 @@
+ffmpeg
+libavcodec-dev
+libavformat-dev
+libavutil-dev
