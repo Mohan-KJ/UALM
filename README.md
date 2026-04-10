@@ -10,12 +10,11 @@
 [![CUDA Optional](https://img.shields.io/badge/CUDA-Optional-76b900?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 
 </div>
----
 Abstract
 
-UALM is a unified inference pipeline that orchestrates four specialized neural architectures to perform end-to-end acoustic scene analysis from a single audio input. Rather than treating speech, sound, and sentiment as isolated problems, UALM employs an **AST-Gated routing mechanism** that dynamically allocates compute based on the acoustic nature of the signal — suppressing linguistic modules entirely when non-speech is dominant to eliminate hallucinated transcriptions.
+UALM is a unified inference pipeline that orchestrates four specialized neural architectures to perform end-to-end acoustic scene analysis from a single audio input. Rather than treating speech, sound, and sentiment as isolated problems, UALM employs an **AST-Gated routing mechanism** that dynamically allocates compute based on the acoustic nature of the signal suppressing linguistic modules entirely when non-speech is dominant to eliminate hallucinated transcriptions.
 
-The system achieves high-fidelity results across transcription, emotional mapping, environmental sound classification, and speaker diarization — all within a single, deployable Streamlit interface.
+The system achieves high fidelity results across transcription, emotional mapping, environmental sound classification, and speaker diarization all within a single, deployable Streamlit interface.
 
 ---
 
