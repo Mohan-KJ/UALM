@@ -11,7 +11,7 @@
 
 </div>
 ---
-## Abstract
+Abstract
 
 UALM is a unified inference pipeline that orchestrates four specialized neural architectures to perform end-to-end acoustic scene analysis from a single audio input. Rather than treating speech, sound, and sentiment as isolated problems, UALM employs an **AST-Gated routing mechanism** that dynamically allocates compute based on the acoustic nature of the signal — suppressing linguistic modules entirely when non-speech is dominant to eliminate hallucinated transcriptions.
 
